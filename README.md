@@ -1,4 +1,4 @@
-# SAMI sample code for an IoT system to remotely monitor fire and temperature with SAMI
+# An IoT system for remotely monitoring fire and temperature
 
 Build a remote fire and temperature monitoring system using SAMI, off-the-shelf sensors, Arduino Uno, Raspberry Pi, and an Android application. 
 
@@ -11,19 +11,21 @@ Check out [Demo video.](https://blog.samsungsami.io/mobile/development/2015/04/0
 
 This repository contains the following software:
 
- - A [Sketch](https://www.arduino.cc/en/Guide/Environment#toc2) program in `arduino` directory. Consult [Step 2: Set up the Arduino](//todo#step-2-set-up-the-arduino) in the blog to set up the board and load the program to the board.
- - A Node.js script in `raspberrypi` directory. Consult [Step 3: Set up the Raspberry Pi](//todo#step-3-set-up-the-raspberry-pi) in the blog to install the packages and run the script on the Pi.
- - An Android application running on the Android phone. Blow we give the prerequisites, and installation instructions. 
+ - A [Sketch](https://www.arduino.cc/en/Guide/Environment#toc2) program running on the Arduino Uno board
+ - A Node.js script running on the Raspberry Pi
+ - An Android application running on the Android phone
 
-Prerequisites for Android Application
+Android Application
 -------------
+
+Prerequisites:
 
  * [TooTallNate Java WebSockets](https://github.com/TooTallNate/Java-WebSocket)
  * Android SDK v21
  * Android Build Tools v21.1.1
  * Android Studio 1.0.1
 
-Setup and Installation for Android Application
+Setup and Installation:
 ----------------------
 
 1. Download and build [Java WebSockets](https://github.com/TooTallNate/Java-WebSocket). Copy `java_websocket.jar` to `app/libs`.
