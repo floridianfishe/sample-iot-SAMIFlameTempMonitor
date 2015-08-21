@@ -1,7 +1,7 @@
 #include <DHT.h>
 
 // Delay between reads
-const int delayBetweenReads = 1000;
+const int delayBetweenReads = 5000;//5s
 
 // For temperature sensor
 const int DHTPIN = 2;

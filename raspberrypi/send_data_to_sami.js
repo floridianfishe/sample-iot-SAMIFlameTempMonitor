@@ -1,6 +1,6 @@
 var webSocketUrl = "wss://api.samsungsami.io/v1.1/websocket?ack=true";
-var device_id = "";
-var device_token = "";
+var device_id = "<YOUR DEVICE ID>";
+var device_token = "<YOUR DEVICE TOKEN>";
 
 var isWebSocketReady = false;
 var ws = null;
