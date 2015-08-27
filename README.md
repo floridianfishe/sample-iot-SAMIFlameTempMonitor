@@ -5,7 +5,7 @@ Build a fire and temperature monitoring system using SAMI, off-the-shelf sensors
 Introduction
 -------------
 
-The blog post [Build an IoT system to remotely monitor fire and temperature with SAMI](https://blog.samsungsami.io/mobile/development/2015/04/09/???.html) at http://blog.samsungsami.io/ describes what the system does and how it is implemented.
+The blog post [Monitor Fire and Temperature Using an Arduino, Raspberry Pi and SAMI](https://blog.samsungsami.io/mobile/development/2015/04/09/???.html) at http://blog.samsungsami.io/ describes what the system does and how it is implemented.
 
 Check out [Demo video.](https://blog.samsungsami.io/mobile/development/2015/04/09/???.html#)
 
