@@ -5,9 +5,9 @@ Build a fire and temperature monitoring system using SAMI, off-the-shelf sensors
 Introduction
 -------------
 
-The blog post [Monitor Fire and Temperature Using an Arduino, Raspberry Pi and SAMI](https://blog.samsungsami.io/mobile/development/2015/04/09/???.html) at http://blog.samsungsami.io/ describes what the system does and how it is implemented.
+The blog post [Monitor Fire and Temperature Using an Arduino, Raspberry Pi and SAMI](https://blog.samsungsami.io/development/iot/mobile/2015/08/27/monitor-fire-and-temperature-using-an-arduino-raspberry-pi-and-sami.html) at http://blog.samsungsami.io/ describes what the system does and how it is implemented.
 
-Check out [Demo video.](https://blog.samsungsami.io/mobile/development/2015/04/09/???.html#)
+Check out [Demo video.](https://blog.samsungsami.io/development/iot/mobile/2015/08/27/monitor-fire-and-temperature-using-an-arduino-raspberry-pi-and-sami.html#demo-video)
 
 This repository contains the following software:
 
@@ -37,12 +37,12 @@ Setup and Installation:
 Sketch Program for Arduino Uno Board
 -------------
 
-The code is located in `arduino` directory. Consult [Step 2: Set up the Arduino](//todo#step-2-set-up-the-arduino) in the blog to set up the board and load the program to the board.
+The code is located in `arduino` directory. Consult [Step 2: Set up the Arduino](https://blog.samsungsami.io/development/iot/mobile/2015/08/27/monitor-fire-and-temperature-using-an-arduino-raspberry-pi-and-sami.html#step-2-set-up-the-arduino) in the blog to set up the board and load the program to the board.
 
 Nodejs Program for Raspberry Pi
 -------------
 
-The code is located in `raspberrypi` directory. Consult [Step 3: Set up the Raspberry Pi](//todo#step-3-set-up-the-raspberry-pi) in the blog to install the packages and to run the program on the Pi.
+The code is located in `raspberrypi` directory. Consult [Step 3: Set up the Raspberry Pi](https://blog.samsungsami.io/development/iot/mobile/2015/08/27/monitor-fire-and-temperature-using-an-arduino-raspberry-pi-and-sami.html#step-3-set-up-the-raspberry-pi) in the blog to install the packages and to run the program on the Pi.
 
 More about SAMI
 ---------------
